@@ -25,7 +25,6 @@ main{
     border-radius: 20px;
 }
 #buttons{
-
     height: 20%;
     position: relative;
 }
@@ -63,4 +62,6 @@ main{
     justify-content: center;
     flex-direction: column;
 }
-
+li{
+    list-style: none;
+}
