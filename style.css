@@ -26,6 +26,7 @@ main{
 }
 #buttons{
     height: 20%;
+    margin-bottom: 30px;
     position: relative;
 }
 #buttons button{
@@ -63,5 +64,7 @@ main{
     flex-direction: column;
 }
 li{
+    text-align: center;
     list-style: none;
+    margin-bottom: 10px;
 }
